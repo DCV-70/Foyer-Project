@@ -5,6 +5,7 @@ To run this Flutter project in Android Studio or Visual Studio Code follow these
    - To import a Flutter project from Git into either Android Studio or Visual Studio Code, you can follow these steps:
 
  - Using Android Studio:
+   
 i) Open Android Studio and select "Check out project from Version Control" on the welcome screen. Alternatively, you can go to "File" -> "New" -> "Project from Version Control".
 
 ii) Choose Git from the list of version control options.
@@ -16,6 +17,7 @@ iv) Click on the "Clone" button to initiate the cloning process. Android Studio 
 v) Once the project is cloned, Android Studio will automatically detect it as a Flutter project and set up the necessary dependencies.
 
 - Using Visual Studio Code:
+  
 i)  Open Visual Studio Code and go to the Source Control view. You can access it by clicking on the source control icon on the left sidebar (or by pressing Ctrl + Shift + G) 
 
 ii)  Click on the "Clone Repository" button or use the "Clone Repository" option from the command palette (accessed by pressing `Ctrl + Shift + P` )
